@@ -1,0 +1,3 @@
+scripts:
+  dev: main.ts --allow-write --allow-read
+  test: deno test --allow-read
